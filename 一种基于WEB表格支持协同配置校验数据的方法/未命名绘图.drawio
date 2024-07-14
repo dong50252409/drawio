@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2024-07-14T08:58:37.117Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="Swll6W_RYn55YjbEa-Ta" version="24.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-14T09:00:23.700Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="BDHEZFrTBg_jwPUX26sG" version="24.6.5" type="github">
   <diagram name="Page-1" id="b5b7bab2-c9e2-2cf4-8b2a-24fd1a2a6d21">
     <mxGraphModel dx="1426" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="MusxossZHIIR-GP_r7h6-70" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.258;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="MusxossZHIIR-GP_r7h6-34">
+        <mxCell id="MusxossZHIIR-GP_r7h6-70" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.258;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=15;" edge="1" parent="1" target="MusxossZHIIR-GP_r7h6-34">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="400" y="481" as="sourcePoint" />
             <Array as="points">
@@ -12,63 +12,65 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="MusxossZHIIR-GP_r7h6-66" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=40;exitDy=205;exitPerimeter=0;entryX=0.141;entryY=0.513;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+        <mxCell id="MusxossZHIIR-GP_r7h6-76" value="HTTP API" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MusxossZHIIR-GP_r7h6-70">
+          <mxGeometry x="-0.3711" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MusxossZHIIR-GP_r7h6-66" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=40;exitDy=205;exitPerimeter=0;entryX=0.141;entryY=0.513;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=15;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="399" y="240" as="sourcePoint" />
             <mxPoint x="398.79999999999995" y="309.9179999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MusxossZHIIR-GP_r7h6-1" value="Web服务器" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="MusxossZHIIR-GP_r7h6-1" value="Web服务器" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="200" y="282" width="400" height="198" as="geometry" />
         </mxCell>
-        <mxCell id="MusxossZHIIR-GP_r7h6-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MusxossZHIIR-GP_r7h6-2" target="MusxossZHIIR-GP_r7h6-22">
+        <mxCell id="MusxossZHIIR-GP_r7h6-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" edge="1" parent="1" source="MusxossZHIIR-GP_r7h6-2" target="MusxossZHIIR-GP_r7h6-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MusxossZHIIR-GP_r7h6-2" value="防火墙" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="200" y="200" width="400" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="MusxossZHIIR-GP_r7h6-7" value="OnlyOfficeWeb表格应用" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="240" y="340" width="320" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="MusxossZHIIR-GP_r7h6-8" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="MusxossZHIIR-GP_r7h6-7">
-          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
-            <mxPoint x="-27" y="7" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="MusxossZHIIR-GP_r7h6-21" value="客户端" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="200" y="10" width="400" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="MusxossZHIIR-GP_r7h6-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MusxossZHIIR-GP_r7h6-7" target="MusxossZHIIR-GP_r7h6-9">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="MusxossZHIIR-GP_r7h6-75" value="TCP/IP" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MusxossZHIIR-GP_r7h6-74">
-          <mxGeometry x="-0.2667" relative="1" as="geometry">
+        <mxCell id="MusxossZHIIR-GP_r7h6-77" value="WebSocket" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MusxossZHIIR-GP_r7h6-61">
+          <mxGeometry x="-0.3333" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MusxossZHIIR-GP_r7h6-22" value="浏览器" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="240" y="70" width="320" height="40" as="geometry" />
+        <mxCell id="MusxossZHIIR-GP_r7h6-2" value="防火墙" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="200" y="200" width="400" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="MusxossZHIIR-GP_r7h6-23" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="MusxossZHIIR-GP_r7h6-22">
+        <mxCell id="MusxossZHIIR-GP_r7h6-7" value="OnlyOfficeWeb表格应用" style="html=1;dropTarget=0;whiteSpace=wrap;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="240" y="340" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MusxossZHIIR-GP_r7h6-8" value="" style="shape=module;jettyWidth=8;jettyHeight=4;fontSize=15;" vertex="1" parent="MusxossZHIIR-GP_r7h6-7">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
             <mxPoint x="-27" y="7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MusxossZHIIR-GP_r7h6-34" value="版本控制工具" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="200" y="559" width="400" height="120" as="geometry" />
+        <mxCell id="MusxossZHIIR-GP_r7h6-21" value="客户端" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="200" y="40" width="400" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="MusxossZHIIR-GP_r7h6-38" value="配置表检查导出应用" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="240" y="619" width="320" height="40" as="geometry" />
+        <mxCell id="MusxossZHIIR-GP_r7h6-22" value="浏览器" style="html=1;dropTarget=0;whiteSpace=wrap;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="240" y="100" width="320" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="MusxossZHIIR-GP_r7h6-39" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="MusxossZHIIR-GP_r7h6-38">
+        <mxCell id="MusxossZHIIR-GP_r7h6-23" value="" style="shape=module;jettyWidth=8;jettyHeight=4;fontSize=15;" vertex="1" parent="MusxossZHIIR-GP_r7h6-22">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
             <mxPoint x="-27" y="7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MusxossZHIIR-GP_r7h6-9" value="配置表检查导出应用" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="MusxossZHIIR-GP_r7h6-34" value="版本控制工具" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="200" y="520" width="400" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="MusxossZHIIR-GP_r7h6-38" value="配置表检查导出应用" style="html=1;dropTarget=0;whiteSpace=wrap;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="240" y="580" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MusxossZHIIR-GP_r7h6-39" value="" style="shape=module;jettyWidth=8;jettyHeight=4;fontSize=15;" vertex="1" parent="MusxossZHIIR-GP_r7h6-38">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MusxossZHIIR-GP_r7h6-9" value="配置表检查导出应用" style="html=1;dropTarget=0;whiteSpace=wrap;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="240" y="420" width="320" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="MusxossZHIIR-GP_r7h6-10" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="MusxossZHIIR-GP_r7h6-9">
+        <mxCell id="MusxossZHIIR-GP_r7h6-10" value="" style="shape=module;jettyWidth=8;jettyHeight=4;fontSize=15;" vertex="1" parent="MusxossZHIIR-GP_r7h6-9">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
             <mxPoint x="-27" y="7" as="offset" />
           </mxGeometry>
